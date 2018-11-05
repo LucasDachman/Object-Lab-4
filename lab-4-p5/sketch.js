@@ -1,10 +1,8 @@
 /*
-This P5 sketch is a template for getting started with Serial Communication. 
-The SerialEvent callback is where incoming data is received 
 
-
-By Arielle Hein, adapted from ITP Phys Comp Serial Labs
-Edited October 25 2018
+Lucas Dachman
+Adapted from template by Arielle Hein
+http://alpha.editor.p5js.org/coloringchaos/sketches/Sya5qKBYf
 
 */
 
