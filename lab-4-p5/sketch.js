@@ -49,8 +49,6 @@ function portOpen(){
   console.log('the serial port opened!');
 }
 
-//THIS IS WHERE WE RECEIVE DATA!!!!!!
-//make sure you're reading data based on how you're sending from arduino
 function serialEvent(){
   //receive serial data here
   inData = serial.readLine().split(",");
